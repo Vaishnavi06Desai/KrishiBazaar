@@ -15,8 +15,8 @@ Krishi-bazaar is an e - business initiative that will help the farmers tremendou
     * Logistic - https://krishi-bazaar-logistics.herokuapp.com/
     
 * Guest Account Credentials:
-    user id:
-    password:
+   * user id:
+   * password:
 
 
 * Version:
