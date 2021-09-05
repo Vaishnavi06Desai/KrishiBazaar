@@ -4,9 +4,14 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
+* Project Description:
+
+Krishi-bazaar is an e - business initiative that will help the farmers tremendously in their business and marketing, by being able to set up a store online and market their produce, without having to worry about the hassle of transportation and storage which is generally undertaken by intermediaries. Its main aim is to do away with the several layers of middlemen between the farmer and the consumer. It allows farmers to upload details, view product statistics, track various shipments and pickups of orders and receive payment online. It also provides a bidding feature which gives farmers the liberty to choose the ideal price point for their produce.Krishi Bazaar with its main motto of “Fresh from Farm to your Doorstep” achieves the goal of providing farmers with better opportunities to showcase their produce and pocket a higher remuneration. Krishi-bazaar aims to help farmers achieve their true potential without the need of being dependent on intermediaries.
+
 * Quick summary:
 
 This repository is for the major project 2020-2021 on Krishi Bazaar, an online market for farmers.
+
 * Version:
 
 1
